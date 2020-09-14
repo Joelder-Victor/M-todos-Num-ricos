@@ -1,2 +1,2 @@
-<h1>Métodos Numricos</h1>
+<h1>Métodos Numéricos</h1>
 
