@@ -1,2 +1,2 @@
-### Encontrando ráizes de equações com métodos numéricos
+### Encontrando razes de equações com métodos numéricos
 
